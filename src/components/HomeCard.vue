@@ -12,7 +12,7 @@ import Card from "./Card.vue";
         <Card
           title="For developers"
           description="Browse our Vue jobs and start your career today"
-          bgColor="bg-red-400"
+          bgColor="bg-green-100"
         />
       </div>
     </div>
